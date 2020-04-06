@@ -1,0 +1,3 @@
+def level2():
+    level2sentences = ["Jamie ","and ", "Yiwei ", "both ", "share ", "a ","passion ", "in ", "soccer.", "Yiwei's ", "favourite ", "player ", "is", "#3 ","Paolo ", "Maldini. ", "Jamie's ","favourite ", "player ", "is ", "#4 ", "Virgil ", "Van ", "Dijk. ", "Their ", "favourite ", "teams", "are ", "Liverpool ", "and ", "Arsenal. ", "Soccer ", "is ", "a ", "worldwide ", "sport ", "that ", "can ", "unite ", "a ", "nation ", "and ", "that", "is ","why ", "the ", "game ", "is ", "so ", "special."]
+
